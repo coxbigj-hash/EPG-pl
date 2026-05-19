@@ -65,149 +65,112 @@
     <display-name>(EPL) Wolves</display-name>
   </channel>
 
-  <!-- ==================== FIXTURES ==================== -->
+  <!-- ==================== STAY TUNED FILLERS (May 19) ==================== -->
+  <!-- Teams with no game today: all except Bournemouth, Man City, Chelsea, Tottenham -->
 
-  <!-- May 11: Tottenham vs Leeds -->
-  <programme start="20260511190000 +0000" stop="20260511210000 +0000" channel="(EPL) Tottenham">
-    <title lang="en">Tottenham vs Leeds United</title>
-    <desc lang="en">Premier League. Final score: 1 - 1.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Arsenal">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Arsenal Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260511190000 +0000" stop="20260511210000 +0000" channel="(EPL) Leeds United">
-    <title lang="en">Tottenham vs Leeds United</title>
-    <desc lang="en">Premier League. Final score: 1 - 1.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Aston Villa">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Aston Villa Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-
-  <!-- May 13: Man City vs Crystal Palace -->
-  <programme start="20260513190000 +0000" stop="20260513210000 +0000" channel="(EPL) Manchester City">
-    <title lang="en">Manchester City vs Crystal Palace</title>
-    <desc lang="en">Premier League. Final score: 3 - 0.</desc>
+  <programme start="20260519000000 +0000" stop="20260519183000 +0000" channel="(EPL) Bournemouth">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Bournemouth Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260513190000 +0000" stop="20260513210000 +0000" channel="(EPL) Crystal Palace">
-    <title lang="en">Manchester City vs Crystal Palace</title>
-    <desc lang="en">Premier League. Final score: 3 - 0.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Brentford">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Brentford Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-
-  <!-- May 15: Aston Villa vs Liverpool -->
-  <programme start="20260515190000 +0000" stop="20260515210000 +0000" channel="(EPL) Aston Villa">
-    <title lang="en">Aston Villa vs Liverpool</title>
-    <desc lang="en">Premier League. Final score: 4 - 2.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Brighton">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Brighton Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260515190000 +0000" stop="20260515210000 +0000" channel="(EPL) Liverpool">
-    <title lang="en">Aston Villa vs Liverpool</title>
-    <desc lang="en">Premier League. Final score: 4 - 2.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Burnley">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Burnley Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-
-  <!-- May 17: Man Utd vs Nottm Forest -->
-  <programme start="20260517113000 +0000" stop="20260517133000 +0000" channel="(EPL) Manchester United">
-    <title lang="en">Manchester United vs Nottingham Forest</title>
-    <desc lang="en">Premier League. Final score: 3 - 2.</desc>
+  <programme start="20260519000000 +0000" stop="20260519191500 +0000" channel="(EPL) Chelsea">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Chelsea Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260517113000 +0000" stop="20260517133000 +0000" channel="(EPL) Nottingham Forest">
-    <title lang="en">Manchester United vs Nottingham Forest</title>
-    <desc lang="en">Premier League. Final score: 3 - 2.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Crystal Palace">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Crystal Palace Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-
-  <!-- May 17: Brentford vs Crystal Palace -->
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Brentford">
-    <title lang="en">Brentford vs Crystal Palace</title>
-    <desc lang="en">Premier League. Final score: 2 - 2.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Everton">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Everton Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Crystal Palace">
-    <title lang="en">Brentford vs Crystal Palace</title>
-    <desc lang="en">Premier League. Final score: 2 - 2.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Fulham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Fulham Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-
-  <!-- May 17: Everton vs Sunderland -->
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Everton">
-    <title lang="en">Everton vs Sunderland</title>
-    <desc lang="en">Premier League. Final score: 1 - 3.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Leeds United">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Leeds United Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Sunderland">
-    <title lang="en">Everton vs Sunderland</title>
-    <desc lang="en">Premier League. Final score: 1 - 3.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Liverpool">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Liverpool Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-
-  <!-- May 17: Leeds vs Brighton -->
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Leeds United">
-    <title lang="en">Leeds United vs Brighton</title>
-    <desc lang="en">Premier League. Final score: 1 - 0.</desc>
+  <programme start="20260519000000 +0000" stop="20260519183000 +0000" channel="(EPL) Manchester City">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Manchester City Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Brighton">
-    <title lang="en">Leeds United vs Brighton</title>
-    <desc lang="en">Premier League. Final score: 1 - 0.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Manchester United">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Manchester United Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-
-  <!-- May 17: Wolves vs Fulham -->
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Wolves">
-    <title lang="en">Wolves vs Fulham</title>
-    <desc lang="en">Premier League. Final score: 1 - 1.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Newcastle">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Newcastle Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
   </programme>
-  <programme start="20260517140000 +0000" stop="20260517160000 +0000" channel="(EPL) Fulham">
-    <title lang="en">Wolves vs Fulham</title>
-    <desc lang="en">Premier League. Final score: 1 - 1.</desc>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Nottingham Forest">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Nottingham Forest Premier League match.</desc>
     <category lang="en">Football</category>
-    <previously-shown />
+  </programme>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Sunderland">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Sunderland Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260519000000 +0000" stop="20260519191500 +0000" channel="(EPL) Tottenham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Tottenham Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) West Ham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next West Ham Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260519000000 +0000" stop="20260520000000 +0000" channel="(EPL) Wolves">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Wolves Premier League match.</desc>
+    <category lang="en">Football</category>
   </programme>
 
-  <!-- May 17: Newcastle vs West Ham -->
-  <programme start="20260517163000 +0000" stop="20260517183000 +0000" channel="(EPL) Newcastle">
-    <title lang="en">Newcastle vs West Ham</title>
-    <desc lang="en">Premier League. Final score: 3 - 1.</desc>
-    <category lang="en">Football</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260517163000 +0000" stop="20260517183000 +0000" channel="(EPL) West Ham">
-    <title lang="en">Newcastle vs West Ham</title>
-    <desc lang="en">Premier League. Final score: 3 - 1.</desc>
-    <category lang="en">Football</category>
-    <previously-shown />
-  </programme>
+  <!-- ==================== MAY 19 LIVE FIXTURES ==================== -->
 
-  <!-- May 18: Arsenal vs Burnley -->
-  <programme start="20260518190000 +0000" stop="20260518210000 +0000" channel="(EPL) Arsenal">
-    <title lang="en">Arsenal vs Burnley</title>
-    <desc lang="en">Premier League. Final score: 1 - 0.</desc>
-    <category lang="en">Football</category>
-    <previously-shown />
-  </programme>
-  <programme start="20260518190000 +0000" stop="20260518210000 +0000" channel="(EPL) Burnley">
-    <title lang="en">Arsenal vs Burnley</title>
-    <desc lang="en">Premier League. Final score: 1 - 0.</desc>
-    <category lang="en">Football</category>
-    <previously-shown />
-  </programme>
-
-  <!-- May 19: Bournemouth vs Man City -->
   <programme start="20260519183000 +0000" stop="20260519203000 +0000" channel="(EPL) Bournemouth">
     <title lang="en">Bournemouth vs Manchester City</title>
     <desc lang="en">Live Premier League match.</desc>
@@ -220,8 +183,6 @@
     <category lang="en">Football</category>
     <live />
   </programme>
-
-  <!-- May 19: Chelsea vs Tottenham -->
   <programme start="20260519191500 +0000" stop="20260519211500 +0000" channel="(EPL) Chelsea">
     <title lang="en">Chelsea vs Tottenham</title>
     <desc lang="en">Live Premier League match.</desc>
@@ -235,9 +196,174 @@
     <live />
   </programme>
 
-  <!-- May 24: Brighton vs Man Utd -->
+  <!-- ==================== STAY TUNED FILLERS (May 20-23) ==================== -->
+  <!-- All teams have no games these days -->
+
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Arsenal">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Arsenal Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Aston Villa">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Aston Villa Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260519203000 +0000" stop="20260524000000 +0000" channel="(EPL) Bournemouth">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Bournemouth Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Brentford">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Brentford Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Brighton">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Brighton Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Burnley">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Burnley Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260519211500 +0000" stop="20260524000000 +0000" channel="(EPL) Chelsea">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Chelsea Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Crystal Palace">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Crystal Palace Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Everton">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Everton Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Fulham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Fulham Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Leeds United">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Leeds United Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Liverpool">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Liverpool Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260519203000 +0000" stop="20260524000000 +0000" channel="(EPL) Manchester City">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Manchester City Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Manchester United">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Manchester United Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Newcastle">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Newcastle Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Nottingham Forest">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Nottingham Forest Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Sunderland">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Sunderland Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260519211500 +0000" stop="20260524000000 +0000" channel="(EPL) Tottenham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Tottenham Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) West Ham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next West Ham Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260520000000 +0000" stop="20260524000000 +0000" channel="(EPL) Wolves">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">Stay tuned for the next Wolves Premier League match.</desc>
+    <category lang="en">Football</category>
+  </programme>
+
+  <!-- ==================== MAY 24 LIVE FIXTURES ==================== -->
+
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Arsenal">
+    <title lang="en">Crystal Palace vs Arsenal</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Aston Villa">
+    <title lang="en">Manchester City vs Aston Villa</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Bournemouth">
+    <title lang="en">Nottingham Forest vs Bournemouth</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Brentford">
+    <title lang="en">Liverpool vs Brentford</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
   <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Brighton">
     <title lang="en">Brighton vs Manchester United</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Burnley">
+    <title lang="en">Burnley vs Wolves</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Chelsea">
+    <title lang="en">Sunderland vs Chelsea</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Crystal Palace">
+    <title lang="en">Crystal Palace vs Arsenal</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Fulham">
+    <title lang="en">Fulham vs Newcastle</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Liverpool">
+    <title lang="en">Liverpool vs Brentford</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Manchester City">
+    <title lang="en">Manchester City vs Aston Villa</title>
     <desc lang="en">Live Premier League match.</desc>
     <category lang="en">Football</category>
     <live />
@@ -248,10 +374,32 @@
     <category lang="en">Football</category>
     <live />
   </programme>
-
-  <!-- May 24: Burnley vs Wolves -->
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Burnley">
-    <title lang="en">Burnley vs Wolves</title>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Newcastle">
+    <title lang="en">Fulham vs Newcastle</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Nottingham Forest">
+    <title lang="en">Nottingham Forest vs Bournemouth</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Sunderland">
+    <title lang="en">Sunderland vs Chelsea</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Tottenham">
+    <title lang="en">Everton vs Tottenham</title>
+    <desc lang="en">Live Premier League match.</desc>
+    <category lang="en">Football</category>
+    <live />
+  </programme>
+  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) West Ham">
+    <title lang="en">Ipswich vs West Ham</title>
     <desc lang="en">Live Premier League match.</desc>
     <category lang="en">Football</category>
     <live />
@@ -263,88 +411,107 @@
     <live />
   </programme>
 
-  <!-- May 24: Crystal Palace vs Arsenal -->
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Crystal Palace">
-    <title lang="en">Crystal Palace vs Arsenal</title>
-    <desc lang="en">Live Premier League match.</desc>
-    <category lang="en">Football</category>
-    <live />
-  </programme>
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Arsenal">
-    <title lang="en">Crystal Palace vs Arsenal</title>
-    <desc lang="en">Live Premier League match.</desc>
-    <category lang="en">Football</category>
-    <live />
-  </programme>
+  <!-- ==================== STAY TUNED AFTER SEASON ENDS ==================== -->
 
-  <!-- May 24: Fulham vs Newcastle -->
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Fulham">
-    <title lang="en">Fulham vs Newcastle</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Arsenal">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Newcastle">
-    <title lang="en">Fulham vs Newcastle</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Aston Villa">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-
-  <!-- May 24: Liverpool vs Brentford -->
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Liverpool">
-    <title lang="en">Liverpool vs Brentford</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Bournemouth">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Brentford">
-    <title lang="en">Liverpool vs Brentford</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Brentford">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-
-  <!-- May 24: Man City vs Aston Villa -->
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Manchester City">
-    <title lang="en">Manchester City vs Aston Villa</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Brighton">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Aston Villa">
-    <title lang="en">Manchester City vs Aston Villa</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Burnley">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-
-  <!-- May 24: Nottm Forest vs Bournemouth -->
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Nottingham Forest">
-    <title lang="en">Nottingham Forest vs Bournemouth</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Chelsea">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Bournemouth">
-    <title lang="en">Nottingham Forest vs Bournemouth</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Crystal Palace">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-
-  <!-- May 24: Sunderland vs Chelsea -->
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Sunderland">
-    <title lang="en">Sunderland vs Chelsea</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Everton">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
   </programme>
-  <programme start="20260524150000 +0000" stop="20260524170000 +0000" channel="(EPL) Chelsea">
-    <title lang="en">Sunderland vs Chelsea</title>
-    <desc lang="en">Live Premier League match.</desc>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Fulham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
     <category lang="en">Football</category>
-    <live />
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Leeds United">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Liverpool">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Manchester City">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="inc">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Manchester United">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Newcastle">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Nottingham Forest">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Sunderland">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Tottenham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) West Ham">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
+  </programme>
+  <programme start="20260524170000 +0000" stop="20260901000000 +0000" channel="(EPL) Wolves">
+    <title lang="en">Stay Tuned</title>
+    <desc lang="en">The Premier League season has ended. Stay tuned for the new season.</desc>
+    <category lang="en">Football</category>
   </programme>
 
 </tv>
