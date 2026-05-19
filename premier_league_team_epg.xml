@@ -1,0 +1,491 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Premier League Team EPG">
+
+  <channel id="arsenal.uk">
+    <display-name>Arsenal TV</display-name>
+  </channel>
+
+  <channel id="astonvilla.uk">
+    <display-name>Aston Villa TV</display-name>
+  </channel>
+
+  <channel id="bournemouth.uk">
+    <display-name>Bournemouth TV</display-name>
+  </channel>
+
+  <channel id="brentford.uk">
+    <display-name>Brentford TV</display-name>
+  </channel>
+
+  <channel id="brighton.uk">
+    <display-name>Brighton TV</display-name>
+  </channel>
+
+  <channel id="burnley.uk">
+    <display-name>Burnley TV</display-name>
+  </channel>
+
+  <channel id="chelsea.uk">
+    <display-name>Chelsea TV</display-name>
+  </channel>
+
+  <channel id="crystalpalace.uk">
+    <display-name>Crystal Palace TV</display-name>
+  </channel>
+
+  <channel id="everton.uk">
+    <display-name>Everton TV</display-name>
+  </channel>
+
+  <channel id="fulham.uk">
+    <display-name>Fulham TV</display-name>
+  </channel>
+
+  <channel id="leeds.uk">
+    <display-name>Leeds United TV</display-name>
+  </channel>
+
+  <channel id="liverpool.uk">
+    <display-name>Liverpool TV</display-name>
+  </channel>
+
+  <channel id="manchestercity.uk">
+    <display-name>Manchester City TV</display-name>
+  </channel>
+
+  <channel id="manchesterunited.uk">
+    <display-name>Manchester United TV</display-name>
+  </channel>
+
+  <channel id="newcastle.uk">
+    <display-name>Newcastle United TV</display-name>
+  </channel>
+
+  <channel id="nottinghamforest.uk">
+    <display-name>Nottingham Forest TV</display-name>
+  </channel>
+
+  <channel id="sunderland.uk">
+    <display-name>Sunderland TV</display-name>
+  </channel>
+
+  <channel id="tottenham.uk">
+    <display-name>Tottenham TV</display-name>
+  </channel>
+
+  <channel id="westham.uk">
+    <display-name>West Ham TV</display-name>
+  </channel>
+
+  <channel id="wolves.uk">
+    <display-name>Wolves TV</display-name>
+  </channel>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="arsenal.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Arsenal TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="arsenal.uk">
+    <title>Crystal Palace v Arsenal</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="arsenal.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Arsenal TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="astonvilla.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Aston Villa TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="astonvilla.uk">
+    <title>Manchester City v Aston Villa</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="astonvilla.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Aston Villa TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260519193000 +0100" channel="bournemouth.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Bournemouth TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519193000 +0100" stop="20260519213000 +0100" channel="bournemouth.uk">
+    <title>Bournemouth v Manchester City</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519213000 +0100" stop="20260524160000 +0100" channel="bournemouth.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Bournemouth TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="bournemouth.uk">
+    <title>Nottingham Forest v Bournemouth</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="bournemouth.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Bournemouth TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="brentford.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Brentford TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="brentford.uk">
+    <title>Liverpool v Brentford</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="brentford.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Brentford TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="brighton.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Brighton TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="brighton.uk">
+    <title>Brighton v Manchester United</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="brighton.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Brighton TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="burnley.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Burnley TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="burnley.uk">
+    <title>Burnley v Wolves</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="burnley.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Burnley TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260519201500 +0100" channel="chelsea.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Chelsea TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519201500 +0100" stop="20260519221500 +0100" channel="chelsea.uk">
+    <title>Chelsea v Tottenham</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519221500 +0100" stop="20260524160000 +0100" channel="chelsea.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Chelsea TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="chelsea.uk">
+    <title>Sunderland v Chelsea</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="chelsea.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Chelsea TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="crystalpalace.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Crystal Palace TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="crystalpalace.uk">
+    <title>Crystal Palace v Arsenal</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="crystalpalace.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Crystal Palace TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="everton.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Everton TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="everton.uk">
+    <title>Tottenham v Everton</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="everton.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Everton TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="fulham.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Fulham TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="fulham.uk">
+    <title>Fulham v Newcastle United</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="fulham.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Fulham TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="leeds.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Leeds United TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="leeds.uk">
+    <title>West Ham United v Leeds United</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="leeds.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Leeds United TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="liverpool.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Liverpool TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="liverpool.uk">
+    <title>Liverpool v Brentford</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="liverpool.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Liverpool TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260519193000 +0100" channel="manchestercity.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Manchester City TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519193000 +0100" stop="20260519213000 +0100" channel="manchestercity.uk">
+    <title>Bournemouth v Manchester City</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519213000 +0100" stop="20260524160000 +0100" channel="manchestercity.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Manchester City TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="manchestercity.uk">
+    <title>Manchester City v Aston Villa</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="manchestercity.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Manchester City TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="manchesterunited.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Manchester United TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="manchesterunited.uk">
+    <title>Brighton v Manchester United</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="manchesterunited.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Manchester United TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="newcastle.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Newcastle United TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="newcastle.uk">
+    <title>Fulham v Newcastle United</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="newcastle.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Newcastle United TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="nottinghamforest.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Nottingham Forest TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="nottinghamforest.uk">
+    <title>Nottingham Forest v Bournemouth</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="nottinghamforest.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Nottingham Forest TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="sunderland.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Sunderland TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="sunderland.uk">
+    <title>Sunderland v Chelsea</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="sunderland.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Sunderland TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260519201500 +0100" channel="tottenham.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Tottenham TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519201500 +0100" stop="20260519221500 +0100" channel="tottenham.uk">
+    <title>Chelsea v Tottenham</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519221500 +0100" stop="20260524160000 +0100" channel="tottenham.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Tottenham TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="tottenham.uk">
+    <title>Tottenham v Everton</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="tottenham.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Tottenham TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="westham.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>West Ham TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="westham.uk">
+    <title>West Ham United v Leeds United</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="westham.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>West Ham TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260519000000 +0100" stop="20260524160000 +0100" channel="wolves.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Wolves TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524160000 +0100" stop="20260524180000 +0100" channel="wolves.uk">
+    <title>Burnley v Wolves</title>
+    <desc>Live Premier League match coverage.</desc>
+    <category>Sports</category>
+  </programme>
+
+  <programme start="20260524180000 +0100" stop="20260525000000 +0100" channel="wolves.uk">
+    <title>Stay Tuned For Next Match</title>
+    <desc>Wolves TV will return when the next Premier League match begins.</desc>
+    <category>Sports</category>
+  </programme>
+</tv>
